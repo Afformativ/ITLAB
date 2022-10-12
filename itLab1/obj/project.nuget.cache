@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DoQcaYvuNppMPpaxl+xViyUjEn2V9yJl0FzxSRACdUvfymdaQEBD5UYh4hqQ7iqJ1w6Q7KvZ+8DNJqf1eME7Bg==",
+  "success": true,
+  "projectFilePath": "D:\\IT\\2-3etap\\itLab1\\itLab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VivoBook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
